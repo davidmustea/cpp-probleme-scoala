@@ -2,6 +2,8 @@
 
 using namespace std;
 
+//Apare mesajul exista oricum
+
 int main(){
     int n, k, uc, k_rang;
 

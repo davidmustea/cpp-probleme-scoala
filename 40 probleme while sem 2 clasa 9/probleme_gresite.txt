@@ -1,0 +1,3 @@
+prob5 - nu da cu virgula rezultatul
+prob20 - apare mesajul nu exista indiferent de situatie
+prob27 - nu merge
