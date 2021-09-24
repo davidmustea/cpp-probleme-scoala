@@ -1,6 +1,9 @@
 #include<iostream>
 
 using namespace std;
+int cefaci(x){
+    return x;
+}
 
 int main(){
     int nr_care_se_citeste, contor_nr_2_cifre = 0, copie_nr_care_se_citeste, oglindit_nr_care_se_citeste,
