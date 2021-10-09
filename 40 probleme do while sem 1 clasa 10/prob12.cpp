@@ -24,7 +24,7 @@ int main(){
             nr_care_se_citeste = nr_care_se_citeste / 10;
         }
         if(ultima_cifra_caz_2 % 2 == 0){
-                contor_nr_pare_inversate++;
+            contor_nr_pare_inversate++;
         }
     }
     while(nr_cu_cifra_prima == 0);
